@@ -1,0 +1,3 @@
+DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
+Telerik.WinControls.UI.RadChartView, Telerik.WinControls.ChartView, Version=2017.1.221.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e
+DevExpress.XtraCharts.ChartControl, DevExpress.XtraCharts.v16.2.UI, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
